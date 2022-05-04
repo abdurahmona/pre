@@ -1,0 +1,20 @@
+.btn {
+    display: inline-block;
+    padding: 16px 31px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FEFCF7;
+    background: #0E8784;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    text-decoration: underline;
+    color : blue;
+}
